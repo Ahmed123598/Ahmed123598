@@ -27,8 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/shahbaz09775395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahbaz09775395" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahbaz-ahmed-821043352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahbaz-ahmed-821043352" height="30" width="40" /></a>
-<a href="https://fb.com/shahbaz ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahbaz ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/shahbaaz__ahmed__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahbaaz__ahmed__" height="30" width="40" /></a>
+<a href="https://instagram.com/shahbaaz_ahmed__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahbaaz_ahmed__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
