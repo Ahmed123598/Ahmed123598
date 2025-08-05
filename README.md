@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Ahmed</h1>
 <h3 align="center">A passionate full-stack developer, WordPress & Shopify expert, and founder of RobustArkTech — based in India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed123598&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed123598" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed123598" alt="ahmed123598" /></a> </p>
 
